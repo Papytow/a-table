@@ -1,3 +1,6 @@
+import pouletBasquaise from "./assets/recipes/poulet-basquaise.jpg";
+import blanquettedepoulet from "./assets/recipes/blanquette de poulet.png";
+import gratin from "./assets/recipes/gratin.jpg";
 export const recipes = [
   {
     id: 1,
@@ -44,7 +47,7 @@ export const recipes = [
     budget: 13,
     rating: 4.7,
     allergens: ["lactose", "gluten"],
-    image: "https://images.unsplash.com/photo-1604909052743-94e838986d24?auto=format&fit=crop&w=900&q=80",
+    image: "blanquette de poulet",
     ingredients: [
       { name: "Blancs de poulet", quantity: "600 g" },
       { name: "Carottes", quantity: "3" },
