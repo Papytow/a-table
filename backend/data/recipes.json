@@ -1,0 +1,2641 @@
+[
+  {
+    "id": 1,
+    "title": "Poulet crémeux courgettes & riz",
+    "category": "Rapide",
+    "difficulty": "Facile",
+    "time": 25,
+    "budget": 9,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "poulet",
+      "courgettes",
+      "riz",
+      "crème"
+    ],
+    "description": "Une recette facile pensée pour un repas rapide, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "2 blancs de poulet",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "2 courgettes",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "150 g de riz",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "10 cl de crème",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "1 gousse d’ail",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Sel",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Poivre",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 716,
+      "protein": 30
+    }
+  },
+  {
+    "id": 2,
+    "title": "Pâtes tomate basilic express",
+    "category": "Petit budget",
+    "difficulty": "Très facile",
+    "time": 15,
+    "budget": 5,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "pâtes",
+      "tomate",
+      "basilic"
+    ],
+    "description": "Une recette très facile pensée pour un repas petit budget, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "220 g de pâtes",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "250 g de sauce tomate",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Basilic",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Parmesan",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Huile d’olive",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 580,
+      "protein": 19
+    }
+  },
+  {
+    "id": 3,
+    "title": "Saumon rôti citron & pommes de terre",
+    "category": "Élaboré",
+    "difficulty": "Moyen",
+    "time": 45,
+    "budget": 18,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "saumon",
+      "pommes de terre",
+      "citron"
+    ],
+    "description": "Une recette moyen pensée pour un repas élaboré, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "2 pavés de saumon",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "400 g de pommes de terre",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "1 citron",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Légumes de saison",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Herbes",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 693,
+      "protein": 37
+    }
+  },
+  {
+    "id": 4,
+    "title": "Omelette pommes de terre fromage",
+    "category": "Simple",
+    "difficulty": "Très facile",
+    "time": 20,
+    "budget": 6,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "œufs",
+      "pommes de terre",
+      "fromage"
+    ],
+    "description": "Une recette très facile pensée pour un repas simple, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "4 œufs",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "2 pommes de terre",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Fromage râpé",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "1 oignon",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Huile",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 724,
+      "protein": 18
+    }
+  },
+  {
+    "id": 5,
+    "title": "Bowl riz poulet avocat",
+    "category": "Healthy",
+    "difficulty": "Facile",
+    "time": 30,
+    "budget": 11,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "riz",
+      "poulet",
+      "avocat"
+    ],
+    "description": "Une recette facile pensée pour un repas healthy, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "150 g de riz",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "2 blancs de poulet",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "1 avocat",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Carottes",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Sauce soja",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 755,
+      "protein": 31
+    }
+  },
+  {
+    "id": 6,
+    "title": "Gratin de pâtes familial",
+    "category": "Familial",
+    "difficulty": "Facile",
+    "time": 40,
+    "budget": 12,
+    "servings": 4,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "pâtes",
+      "gratin",
+      "jambon"
+    ],
+    "description": "Une recette facile pensée pour un repas familial, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "400 g de pâtes",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "20 cl de crème",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Jambon",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Fromage râpé",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Muscade",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 659,
+      "protein": 23
+    }
+  },
+  {
+    "id": 7,
+    "title": "Curry de légumes au lait de coco",
+    "category": "Végétarien",
+    "difficulty": "Facile",
+    "time": 35,
+    "budget": 10,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "curry",
+      "légumes",
+      "coco"
+    ],
+    "description": "Une recette facile pensée pour un repas végétarien, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Légumes variés",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "20 cl lait de coco",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Curry",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Riz",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Oignon",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 758,
+      "protein": 19
+    }
+  },
+  {
+    "id": 8,
+    "title": "Tacos poulet crudités",
+    "category": "Rapide",
+    "difficulty": "Facile",
+    "time": 22,
+    "budget": 13,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "tacos",
+      "poulet",
+      "crudités"
+    ],
+    "description": "Une recette facile pensée pour un repas rapide, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Tortillas",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Poulet",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Salade",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Tomates",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Sauce yaourt",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 540,
+      "protein": 22
+    }
+  },
+  {
+    "id": 9,
+    "title": "Risotto champignons parmesan",
+    "category": "Élaboré",
+    "difficulty": "Moyen",
+    "time": 40,
+    "budget": 14,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "risotto",
+      "champignons",
+      "parmesan"
+    ],
+    "description": "Une recette moyen pensée pour un repas élaboré, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Riz arborio",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Champignons",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Parmesan",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Bouillon",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Oignon",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 715,
+      "protein": 20
+    }
+  },
+  {
+    "id": 10,
+    "title": "Salade complète thon œufs",
+    "category": "Rapide",
+    "difficulty": "Très facile",
+    "time": 18,
+    "budget": 8,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1572449043416-55f4685c9bb7?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "thon",
+      "œufs",
+      "salade"
+    ],
+    "description": "Une recette très facile pensée pour un repas rapide, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Salade",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Thon",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "2 œufs",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Tomates",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Maïs",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 585,
+      "protein": 28
+    }
+  },
+  {
+    "id": 11,
+    "title": "Wok nouilles légumes soja",
+    "category": "Rapide",
+    "difficulty": "Facile",
+    "time": 20,
+    "budget": 9,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "nouilles",
+      "légumes",
+      "soja"
+    ],
+    "description": "Une recette facile pensée pour un repas rapide, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Nouilles",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Légumes wok",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Sauce soja",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Ail",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Gingembre",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 705,
+      "protein": 42
+    }
+  },
+  {
+    "id": 12,
+    "title": "Lasagnes bolognaise maison",
+    "category": "Familial",
+    "difficulty": "Moyen",
+    "time": 60,
+    "budget": 18,
+    "servings": 4,
+    "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "lasagnes",
+      "bolognaise",
+      "famille"
+    ],
+    "description": "Une recette moyen pensée pour un repas familial, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Feuilles lasagnes",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Bœuf haché",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Tomate",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Béchamel",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Fromage",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 732,
+      "protein": 31
+    }
+  },
+  {
+    "id": 13,
+    "title": "Quiche lorraine salade verte",
+    "category": "Simple",
+    "difficulty": "Facile",
+    "time": 45,
+    "budget": 9,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "quiche",
+      "lardons",
+      "œufs"
+    ],
+    "description": "Une recette facile pensée pour un repas simple, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Pâte brisée",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Lardons",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "3 œufs",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Crème",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Salade verte",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 712,
+      "protein": 34
+    }
+  },
+  {
+    "id": 14,
+    "title": "Poulet basquaise express",
+    "category": "Familial",
+    "difficulty": "Facile",
+    "time": 38,
+    "budget": 14,
+    "servings": 4,
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "poulet",
+      "poivrons",
+      "tomate"
+    ],
+    "description": "Une recette facile pensée pour un repas familial, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Poulet",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Poivrons",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Tomates",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Oignon",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Riz",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 550,
+      "protein": 27
+    }
+  },
+  {
+    "id": 15,
+    "title": "Dahl lentilles corail",
+    "category": "Petit budget",
+    "difficulty": "Facile",
+    "time": 30,
+    "budget": 7,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "lentilles",
+      "curry",
+      "végétarien"
+    ],
+    "description": "Une recette facile pensée pour un repas petit budget, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Lentilles corail",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Lait coco",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Curry",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Oignon",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Riz",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 689,
+      "protein": 29
+    }
+  },
+  {
+    "id": 16,
+    "title": "Burger maison frites au four",
+    "category": "Familial",
+    "difficulty": "Moyen",
+    "time": 45,
+    "budget": 16,
+    "servings": 4,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "burger",
+      "frites",
+      "maison"
+    ],
+    "description": "Une recette moyen pensée pour un repas familial, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Pains burger",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Steaks",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Fromage",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Pommes de terre",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Salade",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 433,
+      "protein": 23
+    }
+  },
+  {
+    "id": 17,
+    "title": "Ratatouille œuf poché",
+    "category": "Healthy",
+    "difficulty": "Facile",
+    "time": 35,
+    "budget": 8,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "ratatouille",
+      "œuf",
+      "légumes"
+    ],
+    "description": "Une recette facile pensée pour un repas healthy, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Courgette",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Aubergine",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Tomate",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Poivron",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Œufs",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 435,
+      "protein": 38
+    }
+  },
+  {
+    "id": 18,
+    "title": "Crevettes ail citron pâtes",
+    "category": "Rapide",
+    "difficulty": "Facile",
+    "time": 25,
+    "budget": 15,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "crevettes",
+      "pâtes",
+      "citron"
+    ],
+    "description": "Une recette facile pensée pour un repas rapide, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Crevettes",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Pâtes",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Ail",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Citron",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Persil",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 699,
+      "protein": 22
+    }
+  },
+  {
+    "id": 19,
+    "title": "Tarte tomate moutarde",
+    "category": "Petit budget",
+    "difficulty": "Très facile",
+    "time": 35,
+    "budget": 6,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "tarte",
+      "tomate",
+      "moutarde"
+    ],
+    "description": "Une recette très facile pensée pour un repas petit budget, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Pâte feuilletée",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Tomates",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Moutarde",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Fromage",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Herbes",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 530,
+      "protein": 33
+    }
+  },
+  {
+    "id": 20,
+    "title": "Chili con carne",
+    "category": "Familial",
+    "difficulty": "Facile",
+    "time": 45,
+    "budget": 13,
+    "servings": 4,
+    "image": "https://images.unsplash.com/photo-1572449043416-55f4685c9bb7?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "chili",
+      "haricots",
+      "bœuf"
+    ],
+    "description": "Une recette facile pensée pour un repas familial, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Bœuf haché",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Haricots rouges",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Tomate",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Épices",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Riz",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 566,
+      "protein": 21
+    }
+  },
+  {
+    "id": 21,
+    "title": "Gnocchis crème champignons",
+    "category": "Simple",
+    "difficulty": "Très facile",
+    "time": 18,
+    "budget": 8,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "gnocchis",
+      "crème",
+      "champignons"
+    ],
+    "description": "Une recette très facile pensée pour un repas simple, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Gnocchis",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Champignons",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Crème",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Parmesan",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Ail",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 743,
+      "protein": 30
+    }
+  },
+  {
+    "id": 22,
+    "title": "Cabillaud légumes vapeur",
+    "category": "Healthy",
+    "difficulty": "Facile",
+    "time": 28,
+    "budget": 16,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "poisson",
+      "légumes",
+      "healthy"
+    ],
+    "description": "Une recette facile pensée pour un repas healthy, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Cabillaud",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Brocoli",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Carottes",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Citron",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Pommes vapeur",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 448,
+      "protein": 34
+    }
+  },
+  {
+    "id": 23,
+    "title": "Pizza maison jambon fromage",
+    "category": "Familial",
+    "difficulty": "Facile",
+    "time": 35,
+    "budget": 11,
+    "servings": 4,
+    "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "pizza",
+      "jambon",
+      "fromage"
+    ],
+    "description": "Une recette facile pensée pour un repas familial, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Pâte pizza",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Sauce tomate",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Jambon",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Mozzarella",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Origan",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 524,
+      "protein": 35
+    }
+  },
+  {
+    "id": 24,
+    "title": "Soupe légumes & tartines",
+    "category": "Petit budget",
+    "difficulty": "Très facile",
+    "time": 30,
+    "budget": 5,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "soupe",
+      "légumes",
+      "tartines"
+    ],
+    "description": "Une recette très facile pensée pour un repas petit budget, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Carottes",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Poireaux",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Pommes de terre",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Pain",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Fromage frais",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 513,
+      "protein": 41
+    }
+  },
+  {
+    "id": 25,
+    "title": "Bœuf sauté brocoli",
+    "category": "Rapide",
+    "difficulty": "Moyen",
+    "time": 25,
+    "budget": 15,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "bœuf",
+      "brocoli",
+      "soja"
+    ],
+    "description": "Une recette moyen pensée pour un repas rapide, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Bœuf émincé",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Brocoli",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Sauce soja",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Riz",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Ail",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 487,
+      "protein": 18
+    }
+  },
+  {
+    "id": 26,
+    "title": "Couscous légumes poulet",
+    "category": "Familial",
+    "difficulty": "Moyen",
+    "time": 55,
+    "budget": 20,
+    "servings": 4,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "couscous",
+      "poulet",
+      "légumes"
+    ],
+    "description": "Une recette moyen pensée pour un repas familial, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Semoule",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Poulet",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Carottes",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Courgettes",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Pois chiches",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 534,
+      "protein": 25
+    }
+  },
+  {
+    "id": 27,
+    "title": "Wrap saumon avocat",
+    "category": "Rapide",
+    "difficulty": "Très facile",
+    "time": 12,
+    "budget": 12,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "wrap",
+      "saumon",
+      "avocat"
+    ],
+    "description": "Une recette très facile pensée pour un repas rapide, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Tortillas",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Saumon fumé",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Avocat",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Fromage frais",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Salade",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 587,
+      "protein": 19
+    }
+  },
+  {
+    "id": 28,
+    "title": "Croque-monsieur salade",
+    "category": "Simple",
+    "difficulty": "Très facile",
+    "time": 15,
+    "budget": 7,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "croque",
+      "jambon",
+      "fromage"
+    ],
+    "description": "Une recette très facile pensée pour un repas simple, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Pain de mie",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Jambon",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Fromage",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Beurre",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Salade",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 690,
+      "protein": 32
+    }
+  },
+  {
+    "id": 29,
+    "title": "Poulet rôti herbes légumes",
+    "category": "Élaboré",
+    "difficulty": "Moyen",
+    "time": 75,
+    "budget": 22,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "poulet rôti",
+      "four",
+      "légumes"
+    ],
+    "description": "Une recette moyen pensée pour un repas élaboré, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Poulet entier",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Pommes de terre",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Carottes",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Herbes",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Ail",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 607,
+      "protein": 30
+    }
+  },
+  {
+    "id": 30,
+    "title": "Poke bowl saumon",
+    "category": "Healthy",
+    "difficulty": "Moyen",
+    "time": 35,
+    "budget": 18,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1572449043416-55f4685c9bb7?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "poke",
+      "saumon",
+      "riz"
+    ],
+    "description": "Une recette moyen pensée pour un repas healthy, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Riz",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Saumon",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Avocat",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Concombre",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Sauce soja",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 431,
+      "protein": 26
+    }
+  },
+  {
+    "id": 31,
+    "title": "Pâtes carbonara",
+    "category": "Rapide",
+    "difficulty": "Facile",
+    "time": 20,
+    "budget": 9,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "pâtes",
+      "carbonara",
+      "lardons"
+    ],
+    "description": "Une recette facile pensée pour un repas rapide, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Spaghetti",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Lardons",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Œufs",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Parmesan",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Poivre",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 712,
+      "protein": 34
+    }
+  },
+  {
+    "id": 32,
+    "title": "Taboulé poulet grillé",
+    "category": "Healthy",
+    "difficulty": "Facile",
+    "time": 30,
+    "budget": 10,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "taboulé",
+      "poulet",
+      "semoule"
+    ],
+    "description": "Une recette facile pensée pour un repas healthy, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Semoule",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Poulet",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Tomate",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Concombre",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Menthe",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 523,
+      "protein": 33
+    }
+  },
+  {
+    "id": 33,
+    "title": "Hachis parmentier",
+    "category": "Familial",
+    "difficulty": "Moyen",
+    "time": 55,
+    "budget": 14,
+    "servings": 4,
+    "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "hachis",
+      "purée",
+      "bœuf"
+    ],
+    "description": "Une recette moyen pensée pour un repas familial, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Bœuf haché",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Pommes de terre",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Lait",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Beurre",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Fromage",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 506,
+      "protein": 24
+    }
+  },
+  {
+    "id": 34,
+    "title": "Galettes bretonnes complètes",
+    "category": "Simple",
+    "difficulty": "Facile",
+    "time": 20,
+    "budget": 8,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "galette",
+      "œuf",
+      "jambon"
+    ],
+    "description": "Une recette facile pensée pour un repas simple, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Galettes sarrasin",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Œufs",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Jambon",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Fromage",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Beurre",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 455,
+      "protein": 30
+    }
+  },
+  {
+    "id": 35,
+    "title": "Poêlée pommes de terre saucisses",
+    "category": "Petit budget",
+    "difficulty": "Facile",
+    "time": 30,
+    "budget": 9,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "pommes de terre",
+      "saucisses",
+      "poêlée"
+    ],
+    "description": "Une recette facile pensée pour un repas petit budget, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Pommes de terre",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Saucisses",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Oignon",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Persil",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Huile",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 739,
+      "protein": 40
+    }
+  },
+  {
+    "id": 36,
+    "title": "Tajine poulet abricots",
+    "category": "Élaboré",
+    "difficulty": "Moyen",
+    "time": 65,
+    "budget": 19,
+    "servings": 2,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=1200&q=85",
+    "tags": [
+      "tajine",
+      "poulet",
+      "abricots"
+    ],
+    "description": "Une recette moyen pensée pour un repas élaboré, avec des ingrédients simples et une préparation claire.",
+    "ingredients": [
+      {
+        "name": "Poulet",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Abricots secs",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Amandes",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Épices",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "Semoule",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Sortir tous les ingrédients, laver les légumes si besoin et préparer le plan de travail."
+      },
+      {
+        "title": "Découper et assaisonner",
+        "text": "Couper les aliments aux bonnes dimensions, puis assaisonner progressivement pour garder l’équilibre du plat."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Lancer la cuisson de l’élément principal en respectant le temps indiqué pour obtenir une texture agréable."
+      },
+      {
+        "title": "Assembler la recette",
+        "text": "Ajouter les accompagnements, mélanger délicatement et ajuster l’assaisonnement."
+      },
+      {
+        "title": "Dresser et servir",
+        "text": "Servir chaud dans une assiette propre, ajouter les herbes ou le fromage si la recette le prévoit."
+      }
+    ],
+    "tips": [
+      "Prépare les ingrédients avant de commencer pour gagner du temps.",
+      "Goûte avant de servir pour ajuster le sel et le poivre."
+    ],
+    "nutrition": {
+      "calories": 488,
+      "protein": 26
+    }
+  }
+]
